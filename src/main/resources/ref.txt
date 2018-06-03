@@ -1,0 +1,287 @@
+Terminator 2: Judgment Day (1991)	4.006329 237
+Ferris Bueller's Day Off (1986)	4.007519 133
+District 9 (2009)	4.009434 53
+No Country for Old Men (2007)	4.010204 49
+"Avengers, The (2012)"	4.010870 46
+V for Vendetta (2006)	4.013699 73
+Back to the Future (1985)	4.015487 226
+"Sting, The (1973)"	4.015873 63
+Indiana Jones and the Last Crusade (1989)	4.017007 147
+"Sixth Sense, The (1999)"	4.018135 193
+Roman Holiday (1953)	4.019231 26
+Source Code (2011)	4.020833 24
+Fantastic Mr. Fox (2009)	4.021739 23
+Richard III (1995)	4.021739 23
+"French Connection, The (1971)"	4.021739 46
+American History X (1998)	4.023365 107
+Nashville (1975)	4.023809 21
+"City of Lost Children, The (Cité des enfants perdus, La) (1995)"	4.025000 40
+Life Is Beautiful (La Vita è bella) (1997)	4.025252 99
+Iron Man (2008)	4.026667 75
+Donnie Darko (2001)	4.026882 93
+Red (2010)	4.027778 18
+"Grand Budapest Hotel, The (2014)"	4.028572 35
+"Verdict, The (1982)"	4.029412 17
+"Shining, The (1980)"	4.029703 101
+Mystery Science Theater 3000: The Movie (1996)	4.030303 33
+"Last Emperor, The (1987)"	4.032258 31
+Brazil (1985)	4.032258 62
+"Last King of Scotland, The (2006)"	4.033333 15
+About Time (2013)	4.033333 15
+Full Metal Jacket (1987)	4.033654 104
+Seven (a.k.a. Se7en) (1995)	4.034826 201
+"Wild Bunch, The (1969)"	4.035714 14
+Blue Velvet (1986)	4.036585 41
+Snatch (2000)	4.036842 95
+Serpico (1973)	4.037037 27
+Blade Runner (1982)	4.037671 146
+Tender Mercies (1983)	4.038462 13
+"Guns of Navarone, The (1961)"	4.038462 13
+Sophie's Choice (1982)	4.038462 26
+Blood Diamond (2006)	4.040541 37
+Hoop Dreams (1994)	4.040984 61
+Frozen (2013)	4.041667 12
+Inside Out (2015)	4.041667 24
+"Great Dictator, The (1940)"	4.043478 23
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)	4.043478 23
+"Remains of the Day, The (1993)"	4.043478 46
+Gone with the Wind (1939)	4.044117 68
+Election (1999)	4.044304 79
+Witness (1985)	4.044643 56
+"Gold Rush, The (1925)"	4.045455 11
+Pollock (2000)	4.045455 11
+Seven Pounds (2008)	4.045455 11
+Capturing the Friedmans (2003)	4.045455 11
+Letters from Iwo Jima (2006)	4.045455 11
+Rosencrantz and Guildenstern Are Dead (1990)	4.045455 22
+"Christmas Story, A (1983)"	4.046667 75
+Inception (2010)	4.049550 111
+Sleeper (1973)	4.051282 39
+My Life as a Dog (Mitt liv som hund) (1985)	4.052631 19
+Monty Python's The Meaning of Life (1983)	4.054054 37
+Forrest Gump (1994)	4.054252 341
+Star Wars: Episode VI - Return of the Jedi (1983)	4.059908 217
+"Lord of the Rings: The Two Towers, The (2002)"	4.061170 188
+Angels and Insects (1995)	4.062500 16
+Midnight Cowboy (1969)	4.064103 39
+"Grapes of Wrath, The (1940)"	4.064516 31
+American Graffiti (1973)	4.065790 38
+Bringing Up Baby (1938)	4.066667 30
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)	4.068182 22
+"Professional, The (Le professionnel) (1981)"	4.068182 22
+Harry Potter and the Half-Blood Prince (2009)	4.068965 29
+Empire of the Sun (1987)	4.071429 14
+"Lady Vanishes, The (1938)"	4.071429 14
+Lone Star (1996)	4.071429 35
+Toy Story 3 (2010)	4.071429 42
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994)	4.071970 132
+Five Easy Pieces (1970)	4.075000 20
+The Lego Movie (2014)	4.076923 13
+Her (2013)	4.080000 25
+My Own Private Idaho (1991)	4.083333 12
+Death and the Maiden (1994)	4.083333 12
+Persuasion (1995)	4.083333 18
+This Is Spinal Tap (1984)	4.085366 82
+Dog Day Afternoon (1975)	4.086207 29
+Young Frankenstein (1974)	4.087838 74
+Jean de Florette (1986)	4.088235 17
+Winnie the Pooh and the Blustery Day (1968)	4.088235 17
+Being There (1979)	4.089286 28
+"Grand Day Out with Wallace and Gromit, A (1989)"	4.089744 39
+Mississippi Burning (1988)	4.090909 11
+"Gay Divorcee, The (1934)"	4.090909 11
+"Longest Day, The (1962)"	4.090909 11
+Paprika (Papurika) (2006)	4.090909 11
+"Killing, The (1956)"	4.090909 11
+Waking Life (2001)	4.090909 11
+Monty Python's And Now for Something Completely Different (1971)	4.090909 22
+Network (1976)	4.092105 38
+Wallace & Gromit: The Wrong Trousers (1993)	4.093333 75
+Stand by Me (1986)	4.093750 112
+Annie Hall (1977)	4.093750 80
+Big Hero 6 (2014)	4.095238 21
+"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"	4.096000 125
+Naked (1993)	4.100000 15
+"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)"	4.100000 15
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)	4.100000 20
+All That Jazz (1979)	4.100000 20
+The Martian (2015)	4.100000 25
+October Sky (1999)	4.100000 35
+Patton (1970)	4.100000 40
+"Hustler, The (1961)"	4.108696 23
+The Imitation Game (2014)	4.109375 32
+Charade (1963)	4.111111 27
+Night of the Living Dead (1968)	4.111111 27
+Murder in the First (1995)	4.113636 22
+"Misérables, Les (1995)"	4.115385 13
+Coming Home (1978)	4.115385 13
+Love and Death (1975)	4.115385 13
+Captain America: The Winter Soldier (2014)	4.117647 17
+Cube (1997)	4.119048 21
+Notorious (1946)	4.119048 21
+High Noon (1952)	4.119048 21
+L.A. Confidential (1997)	4.120000 125
+"Wolf of Wall Street, The (2013)"	4.120690 29
+"Manchurian Candidate, The (1962)"	4.122449 49
+Eternal Sunshine of the Spotless Mind (2004)	4.122642 106
+"Graduate, The (1967)"	4.123596 89
+Atlantic City (1980)	4.125000 12
+Zero Effect (1998)	4.125000 12
+Thirty-Two Short Films About Glenn Gould (1993)	4.125000 12
+All the President's Men (1976)	4.125000 20
+Moon (2009)	4.125000 28
+"Prestige, The (2006)"	4.125000 52
+"Lord of the Rings: The Return of the King, The (2003)"	4.127841 176
+"Lock, Stock & Two Smoking Barrels (1998)"	4.128378 74
+"Pianist, The (2002)"	4.131147 61
+Breaking Away (1979)	4.131579 19
+Princess Mononoke (Mononoke-hime) (1997)	4.131579 38
+Duck Soup (1933)	4.132353 34
+Waking Ned Devine (a.k.a. Waking Ned) (1998)	4.133333 30
+"Hurt Locker, The (2008)"	4.134615 26
+Spirited Away (Sen to Chihiro no kamikakushi) (2001)	4.134921 63
+Inglourious Basterds (2009)	4.135593 59
+"Fighter, The (2010)"	4.136364 11
+Crumb (1994)	4.136364 33
+"Silence of the Lambs, The (1991)"	4.138158 304
+Apocalypse Now (1979)	4.138393 112
+"Bridge on the River Kwai, The (1957)"	4.138462 65
+Red Rock West (1992)	4.138889 18
+Good Will Hunting (1997)	4.140127 157
+Trainspotting (1996)	4.141129 124
+Three Colors: Blue (Trois couleurs: Bleu) (1993)	4.145161 31
+Local Hero (1983)	4.147059 17
+Ghost in the Shell (Kôkaku kidôtai) (1995)	4.148148 27
+Interstellar (2014)	4.151163 43
+How to Train Your Dragon (2010)	4.151515 33
+It's a Wonderful Life (1946)	4.152778 72
+Paradise Lost: The Child Murders at Robin Hood Hills (1996)	4.153846 13
+There Will Be Blood (2007)	4.153846 26
+Amadeus (1984)	4.155000 100
+Double Indemnity (1944)	4.156250 32
+Raise the Red Lantern (Da hong deng long gao gao gua) (1991)	4.157895 19
+Three Colors: White (Trzy kolory: Bialy) (1994)	4.159091 22
+Hamlet (1996)	4.160000 25
+Reservoir Dogs (1992)	4.162879 132
+Far from Heaven (2002)	4.166667 15
+Frankenstein (1931)	4.166667 15
+Little Big Man (1970)	4.166667 18
+Intouchables (2011)	4.166667 27
+Delicatessen (1991)	4.166667 30
+"Boot, Das (Boat, The) (1981)"	4.166667 51
+Three Colors: Red (Trois couleurs: Rouge) (1994)	4.171875 32
+Butch Cassidy and the Sundance Kid (1969)	4.173333 75
+Rebecca (1940)	4.173913 23
+Fight Club (1999)	4.178218 202
+Ponyo (Gake no ue no Ponyo) (2008)	4.178571 14
+American Movie (1999)	4.178571 14
+Crimes and Misdemeanors (1989)	4.178571 28
+To Kill a Mockingbird (1962)	4.181250 80
+Once Upon a Time in America (1984)	4.181818 22
+Henry V (1989)	4.181818 22
+"Lord of the Rings: The Fellowship of the Ring, The (2001)"	4.182500 200
+Amores Perros (Love's a Bitch) (2000)	4.183333 30
+"Matrix, The (1999)"	4.183398 259
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	4.193182 220
+Wallace & Gromit: A Close Shave (1995)	4.193548 62
+Singin' in the Rain (1952)	4.195313 64
+"Sweet Hereafter, The (1997)"	4.195652 23
+Who's Afraid of Virginia Woolf? (1966)	4.195652 23
+All About My Mother (Todo sobre mi madre) (1999)	4.200000 20
+Shadowlands (1993)	4.200000 25
+Run Lola Run (Lola rennt) (1998)	4.200000 80
+Citizen Kane (1941)	4.200000 85
+Goodfellas (1990)	4.202290 131
+"Departed, The (2006)"	4.202381 84
+Howl's Moving Castle (Hauru no ugoku shiro) (2004)	4.203704 27
+"Player, The (1992)"	4.204545 44
+"Thin Man, The (1934)"	4.205883 17
+Marty (1955)	4.208333 12
+Grand Illusion (La grande illusion) (1937)	4.208333 12
+Eat Drink Man Woman (Yin shi nan nu) (1994)	4.208333 24
+"Princess Bride, The (1987)"	4.208589 163
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	4.209524 105
+In the Name of the Father (1993)	4.209677 31
+"Wings of Desire (Himmel über Berlin, Der) (1987)"	4.210526 19
+His Girl Friday (1940)	4.211538 26
+"Producers, The (1968)"	4.212121 33
+"Killer, The (Die xue shuang xiong) (1989)"	4.214286 14
+Lawrence of Arabia (1962)	4.215686 51
+Once Upon a Time in the West (C'era una volta il West) (1968)	4.218750 16
+Harry Potter and the Deathly Hallows: Part 2 (2011)	4.220588 34
+Star Wars: Episode IV - A New Hope (1977)	4.221650 291
+Monty Python and the Holy Grail (1975)	4.224138 145
+Taxi Driver (1976)	4.224576 118
+Vertigo (1958)	4.224638 69
+Mr. Smith Goes to Washington (1939)	4.225806 31
+Swingers (1996)	4.226191 42
+Stand and Deliver (1988)	4.227273 11
+Memento (2000)	4.227273 132
+My Neighbor Totoro (Tonari no Totoro) (1988)	4.230769 26
+Star Wars: Episode V - The Empire Strikes Back (1980)	4.232906 234
+Casablanca (1942)	4.235043 117
+"Celluloid Closet, The (1995)"	4.235294 17
+"Dark Knight, The (2008)"	4.235537 121
+American Beauty (1999)	4.236363 220
+Touch of Evil (1958)	4.236842 19
+"Name of the Rose, The (Name der Rose, Der) (1986)"	4.239130 23
+"General, The (1926)"	4.250000 14
+You Can Count on Me (2000)	4.250000 16
+"Ideal Husband, An (1999)"	4.250000 20
+Big Night (1996)	4.250000 22
+Body Heat (1981)	4.250000 22
+"Third Man, The (1949)"	4.250000 38
+Psycho (1960)	4.253247 77
+Pulp Fiction (1994)	4.256173 324
+Fargo (1996)	4.256696 224
+One Flew Over the Cuckoo's Nest (1975)	4.256945 144
+Strangers on a Train (1951)	4.260870 23
+Cinema Paradiso (Nuovo cinema Paradiso) (1989)	4.260870 46
+M (1931)	4.261905 21
+Harvey (1950)	4.263158 19
+Exotica (1994)	4.269231 13
+North by Northwest (1959)	4.270115 87
+"Killing Fields, The (1984)"	4.271429 35
+Cool Hand Luke (1967)	4.271739 46
+Seven Samurai (Shichinin no samurai) (1954)	4.277778 54
+"Seventh Seal, The (Sjunde inseglet, Det) (1957)"	4.281250 16
+All Quiet on the Western Front (1930)	4.285714 14
+Diva (1981)	4.285714 14
+"Paris, Texas (1984)"	4.291667 12
+Smoke (1995)	4.291667 24
+Blood Simple (1984)	4.291667 24
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)	4.294872 39
+City of God (Cidade de Deus) (2002)	4.297101 69
+"Treasure of the Sierra Madre, The (1948)"	4.300000 30
+Schindler's List (1993)	4.303279 244
+12 Angry Men (1957)	4.304054 74
+"Conversation, The (1974)"	4.304348 23
+Rear Window (1954)	4.315217 92
+Central Station (Central do Brasil) (1998)	4.318182 11
+Happiness (1998)	4.326087 23
+Chinatown (1974)	4.335526 76
+Raging Bull (1980)	4.350000 50
+"Philadelphia Story, The (1940)"	4.351351 37
+Modern Times (1936)	4.359375 32
+Rush (2013)	4.363636 11
+Lifeboat (1944)	4.363636 11
+Paths of Glory (1957)	4.366667 15
+"Usual Suspects, The (1995)"	4.370647 201
+It Happened One Night (1934)	4.380000 25
+"Godfather: Part II, The (1974)"	4.385185 135
+Band of Brothers (2001)	4.386364 22
+"Maltese Falcon, The (1941)"	4.387097 62
+Roger & Me (1989)	4.392857 42
+Shall We Dance (1937)	4.409091 11
+Mister Roberts (1955)	4.411765 17
+"African Queen, The (1951)"	4.420000 50
+Ran (1985)	4.423077 26
+All About Eve (1950)	4.434210 38
+When We Were Kings (1996)	4.437500 16
+On the Waterfront (1954)	4.448276 29
+Gladiator (1992)	4.454545 11
+Tom Jones (1963)	4.458333 12
+"Shawshank Redemption, The (1994)"	4.487138 311
+"Godfather, The (1972)"	4.487500 200
+Inherit the Wind (1960)	4.541667 12
+"Best Years of Our Lives, The (1946)"	4.636364 11
